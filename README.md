@@ -9,6 +9,9 @@
 
 **Tədris müddətində gördüyüm işlər**
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alimakarimova&show_icons=true&theme=onedark)
+
 </h4>
 
 <div align="center">
