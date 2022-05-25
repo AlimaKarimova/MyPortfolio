@@ -14,7 +14,7 @@
 <summary><strong>ProductFeedbackUI</strong></summary>
 </details>
 
-| [Layihə](https://github.com/AlimaKarimova/PragmatechFrontEndProject/tree/main/ProductFeedbackUI)      |
+| [Kodlar](https://github.com/AlimaKarimova/PragmatechFrontEndProject/tree/main/ProductFeedbackUI)      |
 | :---------------------------------------------------------------------------------------------------: |
 |                      İşdə istifadə olunan texnologiyalar: HTML5, CSS3                                 |
   
@@ -23,7 +23,7 @@
 <summary><strong>ProductFeedbackUIResponsive</strong></summary>
 </details>
 
-| [Layihə](https://github.com/AlimaKarimova/PragmatechFrontEndProject/tree/main/ProductFeedbackUIResponsive) |
+| [Kodlar](https://github.com/AlimaKarimova/PragmatechFrontEndProject/tree/main/ProductFeedbackUIResponsive) |
 | :---------------------------------------------------------------------------------------------------:      |
 |                      İşdə istifadə olunan texnologiyalar: HTML5, CSS3                                      |
 
@@ -32,7 +32,7 @@
 <summary><strong>ProductListUI</strong></summary>
 </details>
 
-| [Layihə](https://github.com/AlimaKarimova/PragmatechFrontEndProject/tree/main/ProductlistUI)          |
+| [Kodlar](https://github.com/AlimaKarimova/PragmatechFrontEndProject/tree/main/ProductlistUI)          |
 | :---------------------------------------------------------------------------------------------------: |
 |                      İşdə istifadə olunan texnologiyalar: HTML5, CSS3                                 |
 
@@ -41,7 +41,7 @@
 <summary><strong>WebElements</strong></summary>
 </details>
 
-| [Layihə](https://github.com/AlimaKarimova/PragmatechFrontEndProject/tree/main/WebElements)            |
+| [Kodlar](https://github.com/AlimaKarimova/PragmatechFrontEndProject/tree/main/WebElements)            |
 | :---------------------------------------------------------------------------------------------------: |
 |                      İşdə istifadə olunan texnologiyalar: HTML5, CSS3,SASS                            |
   
@@ -51,7 +51,7 @@
 <summary><strong>CommentingUIFull</strong></summary>
 </details>
 
-| [Layihə](https://github.com/AlimaKarimova/PragmatechFrontEndProject/tree/main/Tasks_6-13/CommentingUIFull/CommentingUIAddComment/CommentingUIBasic)|
+| [Kodlar](https://github.com/AlimaKarimova/PragmatechFrontEndProject/tree/main/Tasks_6-13/CommentingUIFull/CommentingUIAddComment/CommentingUIBasic)|
 | :---------------------------------------------------------------------------------------------------:                                              |
 |                      İşdə istifadə olunan texnologiyalar: HTML5, CSS3,JavaScript                                                                   |
   
@@ -62,7 +62,7 @@
 <summary><strong>TagSelectorBasic</strong></summary>
 </details>
 
-| [Layihə](https://github.com/AlimaKarimova/PragmatechFrontEndProject/tree/main/Tasks_6-13/TagSelectorBasic)         |
+| [Kodlar](https://github.com/AlimaKarimova/PragmatechFrontEndProject/tree/main/Tasks_6-13/TagSelectorBasic)         |
 | :---------------------------------------------------------------------------------------------------:              |
 |                      İşdə istifadə olunan texnologiyalar: HTML5, CSS3,,JavaScript                                  |
   
@@ -72,7 +72,7 @@
 <summary><strong>TagSelectorSingleSelector</strong></summary>
 </details>
 
-| [Layihə](https://github.com/AlimaKarimova/PragmatechFrontEndProject/tree/main/Tasks_6-13/TagSelectorSingleSelector)| 
+| [Kodlar](https://github.com/AlimaKarimova/PragmatechFrontEndProject/tree/main/Tasks_6-13/TagSelectorSingleSelector)| 
 | :---------------------------------------------------------------------------------------------------:              |
 |                      İşdə istifadə olunan texnologiyalar: HTML5, CSS3,,JavaScript                                  |  
  
@@ -82,7 +82,7 @@
 <summary><strong>TagSelectorSingleFull</strong></summary>
 </details>
 
-| [Layihə](https://github.com/AlimaKarimova/PragmatechFrontEndProject/tree/main/Tasks_6-13/TagSelectorSingleFull/TagSelectorBasic)|
+| [Kodlar](https://github.com/AlimaKarimova/PragmatechFrontEndProject/tree/main/Tasks_6-13/TagSelectorSingleFull/TagSelectorBasic)|
 | :---------------------------------------------------------------------------------------------------:                           |
 |                      İşdə istifadə olunan texnologiyalar: HTML5, CSS3,,JavaScript                                               |  
   
@@ -94,7 +94,7 @@
 <summary><strong>BackgroundSwitcher</strong></summary>
 </details>
 
-| [Layihə](https://github.com/AlimaKarimova/PragmatechFrontEndProject/tree/main/Tasks_6-13/BackgroundSwitcher)|
+| [Kodlar](https://github.com/AlimaKarimova/PragmatechFrontEndProject/tree/main/Tasks_6-13/BackgroundSwitcher)|
 | :---------------------------------------------------------------------------------------------------:       |
 |                      İşdə istifadə olunan texnologiyalar: HTML5, CSS3,JavaScript                            |  
   
@@ -103,24 +103,26 @@
 <summary><strong>QuizApp</strong></summary>
 </details>
  
-| [Layihə](https://github.com/AlimaKarimova/PragmatechFrontEndProject/tree/main/Quiz)n                  |
+| [Kodlar](https://github.com/AlimaKarimova/PragmatechFrontEndProject/tree/main/Quiz)                    |
 | :---------------------------------------------------------------------------------------------------: |
 |                      İşdə istifadə olunan texnologiyalar: HTML5, CSS3,JavaScript                      |  
   
 <div align="center">
 <details> 
 <summary><strong>CountDown_Time</strong></summary>
+  <img src="https://github.com/AlimaKarimova/My_Works/blob/main/CountDown_Time/2022-05-25_21-04-29.png" alt="drum_kit">
 </details>
 
-| [Layihə](https://github.com/AlimaKarimova/My_Works/tree/main/CountDown_Time)                          |
+| [Kodlar](https://github.com/AlimaKarimova/My_Works/tree/main/CountDown_Time)                          |
 | :---------------------------------------------------------------------------------------------------: |
 |                      İşdə istifadə olunan texnologiyalar: HTML5, CSS3,JavaScript                      |   
 
  <div align="center">
 <details> 
 <summary><strong>Drum_Kit</strong></summary>
+  <img src="https://github.com/AlimaKarimova/My_Works/blob/main/Drum_Kit/2022-05-25_20-57-50.png" alt="drum_kit">
 </details>
 
-| [Layihə](https://github.com/AlimaKarimova/My_Works/tree/main/Drum_Kit)                                |
+| [Kodlar](https://github.com/AlimaKarimova/My_Works/tree/main/Drum_Kit)                                |
 | :---------------------------------------------------------------------------------------------------: |
 |                      İşdə istifadə olunan texnologiyalar: HTML5, CSS3,JavaScript                      |   
