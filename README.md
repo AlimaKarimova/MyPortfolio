@@ -9,6 +9,22 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alimakarimova&show_icons=true&theme=onedark)
 
+<div align="center">
+<details> 
+<summary><strong>ProductFeedbackUI</strong></summary>
+</details>
+
+| [Layihə](https://github.com/AlimaKarimova/PragmatechFrontEndProject/tree/main/ProductFeedbackUI) |
+| :---------------------------------------------------------------------------------------------------: |
+|                      İşdə istifadə olunan texnologiyalar: HTML5, CSS3                                 |
+<div align="center">
+<details> 
+<summary><strong>ProductFeedbackUIResponsive</strong></summary>
+</details>
+
+| [Layihə](https://github.com/AlimaKarimova/PragmatechFrontEndProject/tree/main/ProductFeedbackUIResponsive) |
+| :---------------------------------------------------------------------------------------------------: |
+|                      İşdə istifadə olunan texnologiyalar: HTML5, CSS3                                 |
 
 <div align="center">
 <details> 
