@@ -81,4 +81,12 @@
 | :---------------------------------------------------------------------------------------------------: |
 |                      İşdə istifadə olunan texnologiyalar: HTML5, CSS3,JavaScript                                   |  
   
- 
+ <div align="center">
+<details> 
+<summary><strong>QuizApp</strong></summary>
+</details>
+
+| [Layihə](https://github.com/AlimaKarimova/PragmatechFrontEndProject/tree/main/Quiz))|
+| :---------------------------------------------------------------------------------------------------: |
+|                      İşdə istifadə olunan texnologiyalar: HTML5, CSS3,JavaScript                                   |  
+  
